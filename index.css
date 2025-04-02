@@ -2,15 +2,15 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 50px;
-    background-color: #f4f4f4;
+    background-color: black;
 }
 
 h1 {
-    color: #333;
+    color: white;
 }
 
 p {
-    color: #555;
+    color: white;
 }
 
 button {
